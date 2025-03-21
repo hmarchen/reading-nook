@@ -1,7 +1,0 @@
-flask
-flask_restful
-flask_cors
-psycopg2
-boto3
-waitress
-python-dotenv
